@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/spacex-react/static/css/main.15fff1f8.chunk.css",
-    "main.js": "/spacex-react/static/js/main.dad4d55d.chunk.js",
-    "main.js.map": "/spacex-react/static/js/main.dad4d55d.chunk.js.map",
-    "runtime-main.js": "/spacex-react/static/js/runtime-main.947aec7f.js",
-    "runtime-main.js.map": "/spacex-react/static/js/runtime-main.947aec7f.js.map",
+    "main.css": "/spacex-react/static/css/main.ea1d541e.chunk.css",
+    "main.js": "/spacex-react/static/js/main.ef61b7e6.chunk.js",
+    "main.js.map": "/spacex-react/static/js/main.ef61b7e6.chunk.js.map",
+    "runtime-main.js": "/spacex-react/static/js/runtime-main.f5f62bdb.js",
+    "runtime-main.js.map": "/spacex-react/static/js/runtime-main.f5f62bdb.js.map",
     "static/css/2.0a9ec390.chunk.css": "/spacex-react/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.6c08b4da.chunk.js": "/spacex-react/static/js/2.6c08b4da.chunk.js",
-    "static/js/2.6c08b4da.chunk.js.map": "/spacex-react/static/js/2.6c08b4da.chunk.js.map",
-    "static/js/3.2e2cbb86.chunk.js": "/spacex-react/static/js/3.2e2cbb86.chunk.js",
-    "static/js/3.2e2cbb86.chunk.js.map": "/spacex-react/static/js/3.2e2cbb86.chunk.js.map",
+    "static/js/2.9051ac14.chunk.js": "/spacex-react/static/js/2.9051ac14.chunk.js",
+    "static/js/2.9051ac14.chunk.js.map": "/spacex-react/static/js/2.9051ac14.chunk.js.map",
+    "static/js/3.28130932.chunk.js": "/spacex-react/static/js/3.28130932.chunk.js",
+    "static/js/3.28130932.chunk.js.map": "/spacex-react/static/js/3.28130932.chunk.js.map",
     "index.html": "/spacex-react/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/spacex-react/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.15fff1f8.chunk.css.map": "/spacex-react/static/css/main.15fff1f8.chunk.css.map",
-    "static/js/2.6c08b4da.chunk.js.LICENSE.txt": "/spacex-react/static/js/2.6c08b4da.chunk.js.LICENSE.txt"
+    "static/css/main.ea1d541e.chunk.css.map": "/spacex-react/static/css/main.ea1d541e.chunk.css.map",
+    "static/js/2.9051ac14.chunk.js.LICENSE.txt": "/spacex-react/static/js/2.9051ac14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.947aec7f.js",
+    "static/js/runtime-main.f5f62bdb.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.6c08b4da.chunk.js",
-    "static/css/main.15fff1f8.chunk.css",
-    "static/js/main.dad4d55d.chunk.js"
+    "static/js/2.9051ac14.chunk.js",
+    "static/css/main.ea1d541e.chunk.css",
+    "static/js/main.ef61b7e6.chunk.js"
   ]
 }
